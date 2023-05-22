@@ -1,0 +1,25 @@
+.card-image{
+    width: 100%;
+}
+.books-card{
+    border: 1px solid #f1f0f0;
+}
+.books-index{
+    float: left;
+    background: #c45500;
+    padding: 2px;
+    color: white;
+}
+
+.zg-bdg-tri {
+    border-right: 10px solid transparent;
+    border-top: 25px solid;
+    height: 0;
+    width: 0;
+}
+.zg-bdg-clr-tri {
+    color: #c45500;
+}
+.a-float-left, .aok-float-left {
+    float: left!important;
+}   
